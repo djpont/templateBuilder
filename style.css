@@ -1,0 +1,29 @@
+#workBlock {
+	min-height: 300px;
+	border: 1px solid #333;
+}
+
+#buttonsBlock {
+	margin: 10px 0 0;
+}
+
+div.blue {
+	background: #96c8e3;
+}
+
+div.purple {
+	background: #b59ce0;
+}
+
+div.red {
+	background: #da9a9a;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table th,
+table td {
+	border: 1px dotted #333;
+}
